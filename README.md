@@ -1,6 +1,6 @@
 # Your-Bank
 
-Welcome to your-bank!!
+Bank App for my CS217 class
 
 ## running
 
